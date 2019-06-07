@@ -1,0 +1,856 @@
+Team1,Team2,Ground,Winner,Host_Country,Venue_Team1,Venue_Team2,Innings_Team1,Innings_Team2,year,Day,Victory
+India,New Zealand,Manchester,New Zealand,England,Neutral,Neutral,First,Second,1975,Saturday,batting second
+India,West Indies,Birmingham,West Indies,England,Neutral,Neutral,First,Second,1979,Saturday,batting second
+India,New Zealand,Leeds,New Zealand,England,Neutral,Neutral,First,Second,1979,Wednesday,batting second
+India,Sri Lanka,Manchester,Sri Lanka,England,Neutral,Neutral,Second,First,1979,Saturday,batting first
+India,New Zealand,Perth,India,Australia,Neutral,Neutral,First,Second,1980,Tuesday,batting first
+India,New Zealand,Brisbane,New Zealand,Australia,Neutral,Neutral,First,Second,1980,Sunday,batting second
+India,New Zealand,Adelaide,India,Australia,Neutral,Neutral,First,Second,1980,Tuesday,batting first
+India,New Zealand,Melbourne,New Zealand,Australia,Neutral,Neutral,First,Second,1981,Saturday,batting second
+India,New Zealand,Brisbane,New Zealand,Australia,Neutral,Neutral,Second,First,1981,Sunday,batting first
+India,England,Ahmedabad,England,India,Home,Away,First,Second,1981,Wednesday,batting second
+India,England,Jalandhar,India,India,Home,Away,Second,First,1981,Sunday,batting second
+India,England,Cuttack,India,India,Home,Away,Second,First,1982,Wednesday,batting second
+India,Sri Lanka,Amritsar,India,India,Home,Away,First,Second,1982,Sunday,batting first
+India,Sri Lanka,Delhi,India,India,Home,Away,Second,First,1982,Wednesday,batting second
+India,Sri Lanka,Bengaluru,India,India,Home,Away,Second,First,1982,Sunday,batting second
+India,West Indies,Manchester,India,England,Neutral,Neutral,First,Second,1983,Thursday,batting first
+India,Zimbabwe,Leicester,India,England,Neutral,Neutral,Second,First,1983,Saturday,batting second
+India,West Indies,The Oval,West Indies,England,Neutral,Neutral,Second,First,1983,Wednesday,batting first
+India,Zimbabwe,Tunbridge Wells,India,England,Neutral,Neutral,First,Second,1983,Saturday,batting first
+India,West Indies,Lord's,India,England,Neutral,Neutral,First,Second,1983,Saturday,batting first
+India,Pakistan,Hyderabad,India,India,Home,Away,Second,First,1983,Saturday,batting second
+India,Pakistan,Jaipur,India,India,Home,Away,Second,First,1983,Sunday,batting second
+India,West Indies,Srinagar,West Indies,India,Home,Away,Second,First,1983,Thursday,batting first
+India,West Indies,Vadodara,West Indies,India,Home,Away,First,Second,1983,Wednesday,batting second
+India,West Indies,Indore,West Indies,India,Home,Away,First,Second,1983,Thursday,batting second
+India,West Indies,Jamshedpur,West Indies,India,Home,Away,Second,First,1983,Wednesday,batting first
+India,West Indies,Guwahati,West Indies,India,Home,Away,First,Second,1983,Saturday,batting second
+India,Sri Lanka,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1984,Sunday,batting second
+India,Pakistan,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1984,Friday,batting first
+India,Australia,Ahmedabad,Australia,India,Home,Away,First,Second,1984,Friday,batting second
+India,Australia,Indore,Australia,India,Home,Away,First,Second,1984,Saturday,batting second
+India,England,Pune,England,India,Home,Away,First,Second,1984,Wednesday,batting second
+India,England,Cuttack,England,India,Home,Away,Second,First,1984,Thursday,batting first
+India,England,Bengaluru,England,India,Home,Away,First,Second,1985,Sunday,batting second
+India,England,Nagpur,India,India,Home,Away,Second,First,1985,Wednesday,batting second
+India,England,Chandigarh,England,India,Home,Away,Second,First,1985,Sunday,batting first
+India,Pakistan,Melbourne,India,Australia,Neutral,Neutral,Second,First,1985,Wednesday,batting second
+India,New Zealand,Sydney,India,Australia,Neutral,Neutral,Second,First,1985,Tuesday,batting second
+India,Pakistan,Melbourne,India,Australia,Neutral,Neutral,Second,First,1985,Sunday,batting second
+India,Pakistan,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1985,Friday,batting first
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,1985,Sunday,batting first
+India,West Indies,Sharjah,West Indies,U.A.E.,Neutral,Neutral,First,Second,1985,Friday,batting second
+India,New Zealand,Brisbane,India,Australia,Neutral,Neutral,Second,First,1986,Saturday,batting second
+India,New Zealand,Perth,New Zealand,Australia,Neutral,Neutral,First,Second,1986,Saturday,batting second
+India,New Zealand,Melbourne,New Zealand,Australia,Neutral,Neutral,First,Second,1986,Thursday,batting second
+India,New Zealand,Adelaide,India,Australia,Neutral,Neutral,Second,First,1986,Saturday,batting second
+India,New Zealand,Launceston,India,Australia,Neutral,Neutral,First,Second,1986,Sunday,batting first
+India,New Zealand,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1986,Thursday,batting second
+India,Sri Lanka,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1986,Sunday,batting second
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,First,Second,1986,Friday,batting first
+India,Australia,Jaipur,India,India,Home,Away,Second,First,1986,Sunday,batting second
+India,Australia,Srinagar,Australia,India,Home,Away,First,Second,1986,Tuesday,batting second
+India,Australia,Delhi,India,India,Home,Away,Second,First,1986,Thursday,batting second
+India,Australia,Ahmedabad,India,India,Home,Away,First,Second,1986,Sunday,batting first
+India,Australia,Rajkot,Australia,India,Home,Away,First,Second,1986,Tuesday,batting second
+India,Sri Lanka,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1986,Thursday,batting second
+India,West Indies,Sharjah,West Indies,U.A.E.,Neutral,Neutral,Second,First,1986,Sunday,batting first
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,First,Second,1986,Friday,batting second
+India,Sri Lanka,Kanpur,Sri Lanka,India,Home,Away,Second,First,1986,Wednesday,batting first
+India,Sri Lanka,Guwahati,India,India,Home,Away,Second,First,1987,Sunday,batting second
+India,Sri Lanka,Delhi,India,India,Home,Away,Second,First,1987,Tuesday,batting second
+India,Sri Lanka,Vadodara,India,India,Home,Away,First,Second,1987,Thursday,batting first
+India,Sri Lanka,Mumbai,India,India,Home,Away,First,Second,1987,Saturday,batting first
+India,Pakistan,Indore,Pakistan,India,Home,Away,First,Second,1987,Tuesday,batting second
+India,Pakistan,Kolkata,Pakistan,India,Home,Away,First,Second,1987,Wednesday,batting second
+India,Pakistan,Pune,Pakistan,India,Home,Away,First,Second,1987,Sunday,batting second
+India,Pakistan,Nagpur,Pakistan,India,Home,Away,Second,First,1987,Tuesday,batting first
+India,Pakistan,Jamshedpur,Pakistan,India,Home,Away,First,Second,1987,Thursday,batting second
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,First,Second,1987,Friday,batting second
+India,Australia,Chennai,Australia,India,Home,Away,Second,First,1987,Friday,batting first
+India,New Zealand,Bengaluru,India,India,Home,Away,First,Second,1987,Wednesday,batting first
+India,Zimbabwe,Mumbai,India,India,Home,Away,Second,First,1987,Saturday,batting second
+India,Australia,Delhi,India,India,Home,Away,First,Second,1987,Thursday,batting first
+India,Zimbabwe,Ahmedabad,India,India,Home,Away,Second,First,1987,Monday,batting second
+India,New Zealand,Nagpur,India,India,Home,Away,Second,First,1987,Saturday,batting second
+India,England,Mumbai,England,India,Home,Away,Second,First,1987,Thursday,batting first
+India,West Indies,Nagpur,West Indies,India,Home,Away,Second,First,1987,Tuesday,batting first
+India,West Indies,Guwahati,West Indies,India,Home,Away,Second,First,1987,Wednesday,batting first
+India,West Indies,Kolkata,India,India,Home,Away,First,Second,1988,Saturday,batting first
+India,West Indies,Rajkot,West Indies,India,Home,Away,First,Second,1988,Tuesday,batting second
+India,West Indies,Ahmedabad,West Indies,India,Home,Away,Second,First,1988,Thursday,batting first
+India,West Indies,Faridabad,West Indies,India,Home,Away,First,Second,1988,Tuesday,batting second
+India,West Indies,Gwalior,West Indies,India,Home,Away,Second,First,1988,Friday,batting first
+India,West Indies,Thiruvananthapuram,West Indies,India,Home,Away,First,Second,1988,Monday,batting second
+India,Sri Lanka,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1988,Friday,batting first
+India,New Zealand,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1988,Sunday,batting first
+India,New Zealand,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1988,Friday,batting first
+India,West Indies,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1988,Sunday,batting first
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,1988,Wednesday,batting first
+India,West Indies,Sharjah,West Indies,U.A.E.,Neutral,Neutral,First,Second,1988,Friday,batting second
+India,Sri Lanka,Dhaka,Sri Lanka,Bangladesh,Neutral,Neutral,Second,First,1988,Saturday,batting first
+India,Pakistan,Dhaka,India,Bangladesh,Neutral,Neutral,Second,First,1988,Monday,batting second
+India,Sri Lanka,Dhaka,India,Bangladesh,Neutral,Neutral,Second,First,1988,Friday,batting second
+India,New Zealand,Visakhapatnam,India,India,Home,Away,Second,First,1988,Saturday,batting second
+India,New Zealand,Cuttack,India,India,Home,Away,Second,First,1988,Monday,batting second
+India,New Zealand,Indore,India,India,Home,Away,First,Second,1988,Thursday,batting first
+India,New Zealand,Vadodara,India,India,Home,Away,Second,First,1988,Saturday,batting second
+India,West Indies,Sharjah,West Indies,U.A.E.,Neutral,Neutral,First,Second,1989,Friday,batting second
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,First,Second,1989,Sunday,batting second
+India,West Indies,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1989,Monday,batting first
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,1989,Friday,batting first
+India,Sri Lanka,Ahmedabad,India,India,Home,Away,First,Second,1989,Sunday,batting first
+India,West Indies,Delhi,West Indies,India,Home,Away,Second,First,1989,Monday,batting first
+India,England,Kanpur,India,India,Home,Away,Second,First,1989,Wednesday,batting second
+India,Australia,Bengaluru,India,India,Home,Away,Second,First,1989,Friday,batting second
+India,Pakistan,Kolkata,Pakistan,India,Home,Away,Second,First,1989,Saturday,batting first
+India,West Indies,Mumbai,West Indies,India,Home,Away,First,Second,1989,Monday,batting second
+India,Sri Lanka,Sharjah,Sri Lanka,U.A.E.,Neutral,Neutral,First,Second,1990,Wednesday,batting second
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,1990,Friday,batting first
+India,Sri Lanka,Nagpur,India,India,Home,Away,First,Second,1990,Saturday,batting first
+India,Sri Lanka,Pune,India,India,Home,Away,Second,First,1990,Wednesday,batting second
+India,Sri Lanka,Margao,Sri Lanka,India,Home,Away,First,Second,1990,Saturday,batting second
+India,Bangladesh,Chandigarh,India,India,Home,Away,Second,First,1990,Tuesday,batting second
+India,Sri Lanka,Cuttack,Sri Lanka,India,Home,Away,Second,First,1990,Friday,batting first
+India,Sri Lanka,Kolkata,India,India,Home,Away,Second,First,1991,Friday,batting second
+India,Pakistan,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1991,Friday,batting first
+India,West Indies,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1991,Saturday,batting first
+India,West Indies,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1991,Tuesday,batting second
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,1991,Wednesday,batting first
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,1991,Friday,batting first
+India,South Africa,Kolkata,India,India,Home,Away,Second,First,1991,Sunday,batting second
+India,South Africa,Gwalior,India,India,Home,Away,First,Second,1991,Tuesday,batting first
+India,West Indies,Adelaide,India,Australia,Neutral,Neutral,First,Second,1991,Saturday,batting first
+India,West Indies,Brisbane,West Indies,Australia,Neutral,Neutral,First,Second,1992,Saturday,batting second
+India,West Indies,Melbourne,India,Australia,Neutral,Neutral,Second,First,1992,Thursday,batting second
+India,Pakistan,Sydney,India,Australia,Neutral,Neutral,First,Second,1992,Wednesday,batting first
+India,Zimbabwe,Hamilton,India,New Zealand,Neutral,Neutral,First,Second,1992,Saturday,batting first
+India,West Indies,Wellington,West Indies,New Zealand,Neutral,Neutral,First,Second,1992,Tuesday,batting second
+India,South Africa,Adelaide,South Africa,Australia,Neutral,Neutral,First,Second,1992,Sunday,batting second
+India,England,Jaipur,England,India,Home,Away,First,Second,1993,Monday,batting second
+India,England,Chandigarh,India,India,Home,Away,Second,First,1993,Thursday,batting second
+India,England,Bengaluru,England,India,Home,Away,Second,First,1993,Friday,batting first
+India,England,Jamshedpur,England,India,Home,Away,First,Second,1993,Monday,batting second
+India,England,Gwalior,India,India,Home,Away,Second,First,1993,Thursday,batting second
+India,England,Gwalior,India,India,Home,Away,Second,First,1993,Friday,batting second
+India,Zimbabwe,Faridabad,India,India,Home,Away,First,Second,1993,Friday,batting first
+India,Zimbabwe,Guwahati,India,India,Home,Away,Second,First,1993,Monday,batting second
+India,Zimbabwe,Pune,India,India,Home,Away,Second,First,1993,Thursday,batting second
+India,Sri Lanka,Kanpur,India,India,Home,Away,Second,First,1993,Sunday,batting second
+India,West Indies,Ahmedabad,West Indies,India,Home,Away,Second,First,1993,Tuesday,batting first
+India,South Africa,Kolkata,India,India,Home,Away,First,Second,1993,Wednesday,batting first
+India,West Indies,Kolkata,India,India,Home,Away,First,Second,1993,Saturday,batting first
+India,Sri Lanka,Rajkot,India,India,Home,Away,First,Second,1994,Tuesday,batting first
+India,Sri Lanka,Hyderabad,India,India,Home,Away,Second,First,1994,Friday,batting second
+India,Sri Lanka,Jalandhar,Sri Lanka,India,Home,Away,First,Second,1994,Sunday,batting second
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,First,Second,1994,Friday,batting second
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,1994,Friday,batting first
+India,West Indies,Faridabad,West Indies,India,Home,Away,Second,First,1994,Monday,batting first
+India,West Indies,Mumbai,India,India,Home,Away,First,Second,1994,Thursday,batting first
+India,West Indies,Chennai,India,India,Home,Away,Second,First,1994,Sunday,batting second
+India,New Zealand,Vadodara,India,India,Home,Away,Second,First,1994,Friday,batting second
+India,West Indies,Kanpur,West Indies,India,Home,Away,Second,First,1994,Sunday,batting first
+India,New Zealand,Delhi,India,India,Home,Away,First,Second,1994,Thursday,batting first
+India,West Indies,Kolkata,India,India,Home,Away,First,Second,1994,Saturday,batting first
+India,West Indies,Visakhapatnam,India,India,Home,Away,First,Second,1994,Monday,batting first
+India,West Indies,Cuttack,India,India,Home,Away,Second,First,1994,Wednesday,batting second
+India,West Indies,Jaipur,India,India,Home,Away,First,Second,1994,Friday,batting first
+India,South Africa,Hamilton,South Africa,New Zealand,Neutral,Neutral,Second,First,1995,Saturday,batting first
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,1995,Friday,batting first
+India,Sri Lanka,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1995,Sunday,batting second
+India,Sri Lanka,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1995,Friday,batting second
+India,New Zealand,Jamshedpur,New Zealand,India,Home,Away,First,Second,1995,Wednesday,batting second
+India,New Zealand,Amritsar,India,India,Home,Away,Second,First,1995,Saturday,batting second
+India,New Zealand,Pune,India,India,Home,Away,Second,First,1995,Friday,batting second
+India,New Zealand,Nagpur,New Zealand,India,Home,Away,Second,First,1995,Sunday,batting first
+India,New Zealand,Mumbai,India,India,Home,Away,Second,First,1995,Wednesday,batting second
+India,Kenya,Cuttack,India,India,Home,Away,Second,First,1996,Sunday,batting second
+India,West Indies,Gwalior,India,India,Home,Away,Second,First,1996,Wednesday,batting second
+India,Australia,Mumbai,Australia,India,Home,Away,Second,First,1996,Tuesday,batting first
+India,Sri Lanka,Delhi,Sri Lanka,India,Home,Away,First,Second,1996,Saturday,batting second
+India,Zimbabwe,Kanpur,India,India,Home,Away,First,Second,1996,Wednesday,batting first
+India,Pakistan,Bengaluru,India,India,Home,Away,First,Second,1996,Saturday,batting first
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,1996,Friday,batting first
+India,South Africa,Sharjah,South Africa,U.A.E.,Neutral,Neutral,Second,First,1996,Sunday,batting first
+India,Pakistan,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1996,Monday,batting first
+India,South Africa,Sharjah,South Africa,U.A.E.,Neutral,Neutral,First,Second,1996,Wednesday,batting second
+India,South Africa,Sharjah,South Africa,U.A.E.,Neutral,Neutral,Second,First,1996,Friday,batting first
+India,Zimbabwe,Colombo,India,Sri Lanka,Neutral,Neutral,Second,First,1996,Sunday,batting second
+India,Pakistan,Toronto,India,Canada,Neutral,Neutral,Second,First,1996,Monday,batting second
+India,Pakistan,Toronto,Pakistan,Canada,Neutral,Neutral,First,Second,1996,Tuesday,batting second
+India,Pakistan,Toronto,India,Canada,Neutral,Neutral,First,Second,1996,Wednesday,batting first
+India,Pakistan,Toronto,Pakistan,Canada,Neutral,Neutral,Second,First,1996,Saturday,batting first
+India,Pakistan,Toronto,Pakistan,Canada,Neutral,Neutral,Second,First,1996,Monday,batting first
+India,South Africa,Hyderabad,South Africa,India,Home,Away,Second,First,1996,Thursday,batting first
+India,Australia,Bengaluru,India,India,Home,Away,Second,First,1996,Monday,batting second
+India,South Africa,Jaipur,South Africa,India,Home,Away,Second,First,1996,Wednesday,batting first
+India,South Africa,Rajkot,South Africa,India,Home,Away,First,Second,1996,Tuesday,batting second
+India,South Africa,Mumbai,India,India,Home,Away,First,Second,1996,Wednesday,batting first
+India,South Africa,Mumbai,India,India,Home,Away,First,Second,1996,Saturday,batting first
+India,Zimbabwe,Centurion,Zimbabwe,South Africa,Neutral,Neutral,First,Second,1997,Friday,batting second
+India,Zimbabwe,Benoni,India,South Africa,Neutral,Neutral,Second,First,1997,Sunday,batting second
+India,New Zealand,Bengaluru,India,India,Home,Away,Second,First,1997,Wednesday,batting second
+India,Sri Lanka,Mumbai,Sri Lanka,India,Home,Away,First,Second,1997,Saturday,batting second
+India,Pakistan,Chennai,Pakistan,India,Home,Away,Second,First,1997,Wednesday,batting first
+India,Pakistan,Toronto,India,Canada,Neutral,Neutral,First,Second,1997,Saturday,batting first
+India,Pakistan,Toronto,India,Canada,Neutral,Neutral,Second,First,1997,Sunday,batting second
+India,Pakistan,Toronto,India,Canada,Neutral,Neutral,First,Second,1997,Thursday,batting first
+India,Pakistan,Toronto,India,Canada,Neutral,Neutral,Second,First,1997,Saturday,batting second
+India,Pakistan,Toronto,Pakistan,Canada,Neutral,Neutral,First,Second,1997,Sunday,batting second
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,First,Second,1997,Sunday,batting second
+India,West Indies,Sharjah,West Indies,U.A.E.,Neutral,Neutral,Second,First,1997,Tuesday,batting first
+India,Sri Lanka,Guwahati,India,India,Home,Away,Second,First,1997,Monday,batting second
+India,Sri Lanka,Margao,Sri Lanka,India,Home,Away,First,Second,1997,Sunday,batting second
+India,Pakistan,Dhaka,India,Bangladesh,Neutral,Neutral,First,Second,1998,Sunday,batting first
+India,Pakistan,Dhaka,India,Bangladesh,Neutral,Neutral,Second,First,1998,Wednesday,batting second
+India,Pakistan,Dhaka,Pakistan,Bangladesh,Neutral,Neutral,First,Second,1998,Friday,batting second
+India,Pakistan,Dhaka,India,Bangladesh,Neutral,Neutral,Second,First,1998,Sunday,batting second
+India,Australia,Kochi,India,India,Home,Away,First,Second,1998,Wednesday,batting first
+India,Zimbabwe,Vadodara,India,India,Home,Away,First,Second,1998,Sunday,batting first
+India,Australia,Kanpur,India,India,Home,Away,Second,First,1998,Tuesday,batting second
+India,Zimbabwe,Cuttack,India,India,Home,Away,First,Second,1998,Thursday,batting first
+India,Australia,Delhi,Australia,India,Home,Away,First,Second,1998,Tuesday,batting second
+India,New Zealand,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1998,Friday,batting first
+India,New Zealand,Sharjah,New Zealand,U.A.E.,Neutral,Neutral,First,Second,1998,Monday,batting second
+India,Kenya,Bengaluru,India,India,Home,Away,Second,First,1998,Wednesday,batting second
+India,Bangladesh,Mumbai,India,India,Home,Away,Second,First,1998,Monday,batting second
+India,Kenya,Gwalior,Kenya,India,Home,Away,Second,First,1998,Thursday,batting first
+India,Kenya,Kolkata,India,India,Home,Away,Second,First,1998,Sunday,batting second
+India,Pakistan,Toronto,India,Canada,Neutral,Neutral,Second,First,1998,Saturday,batting second
+India,Pakistan,Toronto,Pakistan,Canada,Neutral,Neutral,Second,First,1998,Sunday,batting first
+India,Pakistan,Toronto,Pakistan,Canada,Neutral,Neutral,Second,First,1998,Wednesday,batting first
+India,Pakistan,Toronto,Pakistan,Canada,Neutral,Neutral,Second,First,1998,Saturday,batting first
+India,Pakistan,Toronto,Pakistan,Canada,Neutral,Neutral,First,Second,1998,Sunday,batting second
+India,West Indies,Dhaka,West Indies,Bangladesh,Neutral,Neutral,First,Second,1998,Saturday,batting second
+India,Sri Lanka,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1998,Friday,batting second
+India,Zimbabwe,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1998,Sunday,batting second
+India,Sri Lanka,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1998,Monday,batting first
+India,Zimbabwe,Sharjah,Zimbabwe,U.A.E.,Neutral,Neutral,Second,First,1998,Wednesday,batting first
+India,Zimbabwe,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1998,Friday,batting second
+India,Sri Lanka,Nagpur,India,India,Home,Away,First,Second,1999,Monday,batting first
+India,Pakistan,Jaipur,Pakistan,India,Home,Away,Second,First,1999,Wednesday,batting first
+India,Sri Lanka,Pune,India,India,Home,Away,First,Second,1999,Tuesday,batting first
+India,Pakistan,Bengaluru,Pakistan,India,Home,Away,Second,First,1999,Sunday,batting first
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,1999,Thursday,batting first
+India,Pakistan,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1999,Tuesday,batting second
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,First,Second,1999,Friday,batting second
+India,Zimbabwe,Leicester,Zimbabwe,England,Neutral,Neutral,Second,First,1999,Wednesday,batting first
+India,Kenya,Bristol,India,England,Neutral,Neutral,First,Second,1999,Sunday,batting first
+India,Sri Lanka,Taunton,India,England,Neutral,Neutral,First,Second,1999,Wednesday,batting first
+India,Pakistan,Manchester,India,England,Neutral,Neutral,First,Second,1999,Tuesday,batting first
+India,New Zealand,Nottingham,New Zealand,England,Neutral,Neutral,First,Second,1999,Saturday,batting second
+India,West Indies,Toronto,India,Canada,Neutral,Neutral,Second,First,1999,Saturday,batting second
+India,West Indies,Toronto,West Indies,Canada,Neutral,Neutral,Second,First,1999,Sunday,batting first
+India,West Indies,Toronto,India,Canada,Neutral,Neutral,First,Second,1999,Tuesday,batting first
+India,South Africa,Nairobi,India,Kenya,Neutral,Neutral,Second,First,1999,Sunday,batting second
+India,Zimbabwe,Nairobi,India,Kenya,Neutral,Neutral,First,Second,1999,Friday,batting first
+India,South Africa,Nairobi,South Africa,Kenya,Neutral,Neutral,Second,First,1999,Sunday,batting first
+India,New Zealand,Rajkot,New Zealand,India,Home,Away,Second,First,1999,Friday,batting first
+India,New Zealand,Hyderabad,India,India,Home,Away,First,Second,1999,Monday,batting first
+India,New Zealand,Gwalior,India,India,Home,Away,First,Second,1999,Thursday,batting first
+India,New Zealand,Guwahati,New Zealand,India,Home,Away,Second,First,1999,Sunday,batting first
+India,New Zealand,Delhi,India,India,Home,Away,Second,First,1999,Wednesday,batting second
+India,Pakistan,Brisbane,Pakistan,Australia,Neutral,Neutral,First,Second,2000,Monday,batting second
+India,Pakistan,Hobart,Pakistan,Australia,Neutral,Neutral,Second,First,2000,Friday,batting first
+India,Pakistan,Adelaide,India,Australia,Neutral,Neutral,First,Second,2000,Tuesday,batting first
+India,Pakistan,Perth,Pakistan,Australia,Neutral,Neutral,Second,First,2000,Friday,batting first
+India,South Africa,Kochi,India,India,Home,Away,Second,First,2000,Thursday,batting second
+India,South Africa,Jamshedpur,India,India,Home,Away,Second,First,2000,Sunday,batting second
+India,South Africa,Faridabad,South Africa,India,Home,Away,First,Second,2000,Wednesday,batting second
+India,South Africa,Vadodara,India,India,Home,Away,Second,First,2000,Friday,batting second
+India,South Africa,Nagpur,South Africa,India,Home,Away,Second,First,2000,Sunday,batting first
+India,South Africa,Sharjah,South Africa,U.A.E.,Neutral,Neutral,First,Second,2000,Wednesday,batting second
+India,Pakistan,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,2000,Thursday,batting second
+India,Pakistan,Sharjah,Pakistan,U.A.E.,Neutral,Neutral,Second,First,2000,Sunday,batting first
+India,South Africa,Sharjah,South Africa,U.A.E.,Neutral,Neutral,First,Second,2000,Monday,batting second
+India,Sri Lanka,Dhaka,Sri Lanka,Bangladesh,Neutral,Neutral,Second,First,2000,Thursday,batting first
+India,Pakistan,Dhaka,Pakistan,Bangladesh,Neutral,Neutral,Second,First,2000,Saturday,batting first
+India,South Africa,Nairobi,India,Kenya,Neutral,Neutral,First,Second,2000,Friday,batting first
+India,New Zealand,Nairobi,New Zealand,Kenya,Neutral,Neutral,First,Second,2000,Sunday,batting second
+India,Sri Lanka,Sharjah,Sri Lanka,U.A.E.,Neutral,Neutral,First,Second,2000,Friday,batting second
+India,Zimbabwe,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,2000,Sunday,batting first
+India,Zimbabwe,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,2000,Thursday,batting second
+India,Sri Lanka,Sharjah,Sri Lanka,U.A.E.,Neutral,Neutral,Second,First,2000,Friday,batting first
+India,Sri Lanka,Sharjah,Sri Lanka,U.A.E.,Neutral,Neutral,Second,First,2000,Sunday,batting first
+India,Zimbabwe,Cuttack,India,India,Home,Away,Second,First,2000,Saturday,batting second
+India,Zimbabwe,Ahmedabad,India,India,Home,Away,First,Second,2000,Tuesday,batting first
+India,Zimbabwe,Jodhpur,Zimbabwe,India,Home,Away,First,Second,2000,Friday,batting first
+India,Zimbabwe,Kanpur,India,India,Home,Away,Second,First,2000,Monday,batting second
+India,Zimbabwe,Rajkot,India,India,Home,Away,First,Second,2000,Thursday,batting first
+India,Australia,Bengaluru,India,India,Home,Away,First,Second,2001,Sunday,batting first
+India,Australia,Pune,Australia,India,Home,Away,First,Second,2001,Wednesday,batting second
+India,Australia,Indore,India,India,Home,Away,First,Second,2001,Saturday,batting first
+India,Australia,Visakhapatnam,Australia,India,Home,Away,Second,First,2001,Tuesday,batting first
+India,Australia,Margao,Australia,India,Home,Away,First,Second,2001,Friday,batting second
+India,West Indies,Bulawayo,India,Zimbabwe,Neutral,Neutral,Second,First,2001,Saturday,batting second
+India,West Indies,Harare,India,Zimbabwe,Neutral,Neutral,Second,First,2001,Wednesday,batting second
+India,West Indies,Harare,West Indies,Zimbabwe,Neutral,Neutral,Second,First,2001,Saturday,batting first
+India,New Zealand,Colombo,New Zealand,Sri Lanka,Neutral,Neutral,Second,First,2001,Friday,batting first
+India,New Zealand,Colombo,New Zealand,Sri Lanka,Neutral,Neutral,Second,First,2001,Thursday,batting first
+India,New Zealand,Colombo,India,Sri Lanka,Neutral,Neutral,Second,First,2001,Thursday,batting second
+India,Kenya,Bloemfontein,India,South Africa,Neutral,Neutral,Second,First,2001,Friday,batting second
+India,Kenya,Port Elizabeth,Kenya,South Africa,Neutral,Neutral,Second,First,2001,Wednesday,batting first
+India,Kenya,Paarl,India,South Africa,Neutral,Neutral,First,Second,2001,Wednesday,batting first
+India,England,Kolkata,India,India,Home,Away,First,Second,2002,Saturday,batting first
+India,England,Cuttack,England,India,Home,Away,Second,First,2002,Tuesday,batting first
+India,England,Chennai,India,India,Home,Away,Second,First,2002,Friday,batting second
+India,England,Kanpur,India,India,Home,Away,Second,First,2002,Monday,batting second
+India,England,Delhi,England,India,Home,Away,Second,First,2002,Thursday,batting first
+India,England,Mumbai,England,India,Home,Away,Second,First,2002,Sunday,batting first
+India,Zimbabwe,Faridabad,Zimbabwe,India,Home,Away,First,Second,2002,Thursday,batting first
+India,Zimbabwe,Kochi,Zimbabwe,India,Home,Away,First,Second,2002,Wednesday,batting second
+India,Zimbabwe,Hyderabad,India,India,Home,Away,Second,First,2002,Saturday,batting second
+India,Zimbabwe,Guwahati,India,India,Home,Away,First,Second,2002,Tuesday,batting first
+India,Sri Lanka,The Oval,India,England,Neutral,Neutral,Second,First,2002,Sunday,batting second
+India,Sri Lanka,Birmingham,India,England,Neutral,Neutral,Second,First,2002,Saturday,batting second
+India,Sri Lanka,Bristol,India,England,Neutral,Neutral,First,Second,2002,Thursday,batting first
+India,Zimbabwe,Colombo,India,Sri Lanka,Neutral,Neutral,First,Second,2002,Saturday,batting first
+India,South Africa,Colombo,India,Sri Lanka,Neutral,Neutral,First,Second,2002,Wednesday,batting first
+India,West Indies,Jamshedpur,West Indies,India,Home,Away,First,Second,2002,Wednesday,batting second
+India,West Indies,Nagpur,West Indies,India,Home,Away,First,Second,2002,Saturday,batting second
+India,West Indies,Rajkot,India,India,Home,Away,First,Second,2002,Tuesday,batting first
+India,West Indies,Ahmedabad,India,India,Home,Away,Second,First,2002,Friday,batting second
+India,West Indies,Vadodara,West Indies,India,Home,Away,First,Second,2002,Monday,batting second
+India,West Indies,Jodhpur,India,India,Home,Away,Second,First,2002,Thursday,batting second
+India,West Indies,Vijayawada,West Indies,India,Home,Away,Second,First,2002,Sunday,batting first
+India,Netherlands,Paarl,India,South Africa,Neutral,Neutral,First,Second,2003,Wednesday,batting first
+India,Namibia,Pietermaritzburg,India,South Africa,Neutral,Neutral,First,Second,2003,Sunday,batting first
+India,Pakistan,Centurion,India,South Africa,Neutral,Neutral,Second,First,2003,Saturday,batting second
+India,Kenya,Cape Town,India,South Africa,Neutral,Neutral,Second,First,2003,Friday,batting second
+India,Sri Lanka,Johannesburg,India,South Africa,Neutral,Neutral,First,Second,2003,Monday,batting first
+India,New Zealand,Centurion,India,South Africa,Neutral,Neutral,Second,First,2003,Friday,batting second
+India,Kenya,Durban,India,South Africa,Neutral,Neutral,First,Second,2003,Thursday,batting first
+India,South Africa,Dhaka,India,Bangladesh,Neutral,Neutral,First,Second,2003,Sunday,batting first
+India,South Africa,Dhaka,South Africa,Bangladesh,Neutral,Neutral,First,Second,2003,Friday,batting second
+India,Australia,Gwalior,India,India,Home,Away,First,Second,2003,Sunday,batting first
+India,Australia,Mumbai,Australia,India,Home,Away,Second,First,2003,Saturday,batting first
+India,New Zealand,Cuttack,New Zealand,India,Home,Away,First,Second,2003,Thursday,batting second
+India,Australia,Bengaluru,Australia,India,Home,Away,Second,First,2003,Wednesday,batting first
+India,New Zealand,Hyderabad,India,India,Home,Away,First,Second,2003,Saturday,batting first
+India,Australia,Kolkata,Australia,India,Home,Away,Second,First,2003,Tuesday,batting first
+India,Zimbabwe,Hobart,India,Australia,Neutral,Neutral,Second,First,2004,Wednesday,batting second
+India,Zimbabwe,Brisbane,India,Australia,Neutral,Neutral,First,Second,2004,Tuesday,batting first
+India,Zimbabwe,Adelaide,India,Australia,Neutral,Neutral,First,Second,2004,Saturday,batting first
+India,Zimbabwe,Perth,India,Australia,Neutral,Neutral,Second,First,2004,Tuesday,batting second
+India,U.A.E.,Dambulla,India,Sri Lanka,Neutral,Neutral,First,Second,2004,Friday,batting first
+India,Pakistan,Colombo,Pakistan,Sri Lanka,Neutral,Neutral,Second,First,2004,Sunday,batting first
+India,Pakistan,Amstelveen,Pakistan,Netherlands,Neutral,Neutral,Second,First,2004,Saturday,batting first
+India,Kenya,Southampton,India,England,Neutral,Neutral,First,Second,2004,Saturday,batting first
+India,Pakistan,Birmingham,Pakistan,England,Neutral,Neutral,First,Second,2004,Sunday,batting second
+India,Pakistan,Kolkata,Pakistan,India,Home,Away,First,Second,2004,Saturday,batting second
+India,Pakistan,Kochi,India,India,Home,Away,First,Second,2005,Saturday,batting first
+India,Pakistan,Visakhapatnam,India,India,Home,Away,First,Second,2005,Tuesday,batting first
+India,Pakistan,Jamshedpur,Pakistan,India,Home,Away,Second,First,2005,Saturday,batting first
+India,Pakistan,Ahmedabad,Pakistan,India,Home,Away,First,Second,2005,Tuesday,batting second
+India,Pakistan,Kanpur,Pakistan,India,Home,Away,First,Second,2005,Friday,batting second
+India,Pakistan,Delhi,Pakistan,India,Home,Away,Second,First,2005,Sunday,batting first
+India,West Indies,Dambulla,India,Sri Lanka,Neutral,Neutral,Second,First,2005,Sunday,batting second
+India,West Indies,Colombo,India,Sri Lanka,Neutral,Neutral,First,Second,2005,Sunday,batting first
+India,New Zealand,Bulawayo,New Zealand,Zimbabwe,Neutral,Neutral,Second,First,2005,Friday,batting first
+India,New Zealand,Harare,India,Zimbabwe,Neutral,Neutral,Second,First,2005,Friday,batting second
+India,New Zealand,Harare,New Zealand,Zimbabwe,Neutral,Neutral,First,Second,2005,Tuesday,batting second
+India,Sri Lanka,Nagpur,India,India,Home,Away,First,Second,2005,Tuesday,batting first
+India,Sri Lanka,Jaipur,India,India,Home,Away,Second,First,2005,Monday,batting second
+India,Sri Lanka,Pune,India,India,Home,Away,Second,First,2005,Thursday,batting second
+India,Sri Lanka,Ahmedabad,Sri Lanka,India,Home,Away,First,Second,2005,Sunday,batting second
+India,Sri Lanka,Rajkot,India,India,Home,Away,Second,First,2005,Wednesday,batting second
+India,Sri Lanka,Vadodara,India,India,Home,Away,Second,First,2005,Saturday,batting second
+India,South Africa,Hyderabad,South Africa,India,Home,Away,First,Second,2005,Wednesday,batting second
+India,South Africa,Bengaluru,India,India,Home,Away,Second,First,2005,Saturday,batting second
+India,South Africa,Kolkata,South Africa,India,Home,Away,First,Second,2005,Friday,batting second
+India,South Africa,Mumbai,India,India,Home,Away,Second,First,2005,Monday,batting second
+India,England,Delhi,India,India,Home,Away,First,Second,2006,Tuesday,batting first
+India,England,Faridabad,India,India,Home,Away,Second,First,2006,Friday,batting second
+India,England,Margao,India,India,Home,Away,First,Second,2006,Monday,batting first
+India,England,Kochi,India,India,Home,Away,Second,First,2006,Thursday,batting second
+India,England,Jamshedpur,England,India,Home,Away,First,Second,2006,Wednesday,batting second
+India,England,Indore,India,India,Home,Away,Second,First,2006,Saturday,batting second
+India,Pakistan,Abu Dhabi,Pakistan,U.A.E.,Neutral,Neutral,First,Second,2006,Tuesday,batting second
+India,Pakistan,Abu Dhabi,India,U.A.E.,Neutral,Neutral,First,Second,2006,Wednesday,batting first
+India,West Indies,Kuala Lumpur,West Indies,Malaysia,Neutral,Neutral,Second,First,2006,Thursday,batting first
+India,West Indies,Kuala Lumpur,India,Malaysia,Neutral,Neutral,First,Second,2006,Wednesday,batting first
+India,England,Jaipur,India,India,Home,Away,Second,First,2006,Sunday,batting second
+India,West Indies,Ahmedabad,West Indies,India,Home,Away,First,Second,2006,Thursday,batting second
+India,West Indies,Nagpur,India,India,Home,Away,First,Second,2007,Sunday,batting first
+India,West Indies,Cuttack,India,India,Home,Away,First,Second,2007,Wednesday,batting first
+India,West Indies,Chennai,West Indies,India,Home,Away,First,Second,2007,Saturday,batting second
+India,West Indies,Vadodara,India,India,Home,Away,First,Second,2007,Wednesday,batting first
+India,Sri Lanka,Rajkot,Sri Lanka,India,Home,Away,Second,First,2007,Sunday,batting first
+India,Sri Lanka,Margao,India,India,Home,Away,Second,First,2007,Wednesday,batting second
+India,Sri Lanka,Visakhapatnam,India,India,Home,Away,Second,First,2007,Saturday,batting second
+India,Sri Lanka,Port of Spain,Sri Lanka,West Indies,Neutral,Neutral,Second,First,2007,Friday,batting first
+India,South Africa,Belfast,South Africa,Ireland,Neutral,Neutral,First,Second,2007,Tuesday,batting second
+India,South Africa,Belfast,India,Ireland,Neutral,Neutral,Second,First,2007,Friday,batting second
+India,South Africa,Belfast,India,Ireland,Neutral,Neutral,Second,First,2007,Sunday,batting second
+India,Australia,Kochi,Australia,India,Home,Away,Second,First,2007,Tuesday,batting first
+India,Australia,Hyderabad,Australia,India,Home,Away,Second,First,2007,Friday,batting first
+India,Australia,Chandigarh,India,India,Home,Away,First,Second,2007,Monday,batting first
+India,Australia,Vadodara,Australia,India,Home,Away,First,Second,2007,Thursday,batting second
+India,Australia,Nagpur,Australia,India,Home,Away,Second,First,2007,Sunday,batting first
+India,Australia,Mumbai,India,India,Home,Away,Second,First,2007,Wednesday,batting second
+India,Pakistan,Guwahati,India,India,Home,Away,Second,First,2007,Monday,batting second
+India,Pakistan,Kanpur,India,India,Home,Away,First,Second,2007,Sunday,batting first
+India,Pakistan,Gwalior,India,India,Home,Away,Second,First,2007,Thursday,batting second
+India,Pakistan,Jaipur,Pakistan,India,Home,Away,Second,First,2007,Sunday,batting first
+India,Sri Lanka,Canberra,Sri Lanka,Australia,Neutral,Neutral,First,Second,2008,Tuesday,batting second
+India,Sri Lanka,Adelaide,India,Australia,Neutral,Neutral,Second,First,2008,Tuesday,batting second
+India,Sri Lanka,Hobart,India,Australia,Neutral,Neutral,Second,First,2008,Tuesday,batting second
+India,Pakistan,Dhaka,India,Bangladesh,Neutral,Neutral,First,Second,2008,Tuesday,batting first
+India,Pakistan,Dhaka,Pakistan,Bangladesh,Neutral,Neutral,Second,First,2008,Saturday,batting first
+India,Sri Lanka,Karachi,India,Pakistan,Neutral,Neutral,Second,First,2008,Thursday,batting second
+India,Sri Lanka,Karachi,Sri Lanka,Pakistan,Neutral,Neutral,Second,First,2008,Sunday,batting first
+India,England,Rajkot,India,India,Home,Away,First,Second,2008,Friday,batting first
+India,England,Indore,India,India,Home,Away,First,Second,2008,Monday,batting first
+India,England,Kanpur,India,India,Home,Away,First,Second,2008,Thursday,batting first
+India,England,Bengaluru,India,India,Home,Away,First,Second,2008,Sunday,batting first
+India,England,Cuttack,India,India,Home,Away,Second,First,2008,Wednesday,batting second
+India,New Zealand,Colombo,India,Sri Lanka,Neutral,Neutral,Second,First,2009,Friday,batting second
+India,Pakistan,Centurion,Pakistan,South Africa,Neutral,Neutral,Second,First,2009,Saturday,batting first
+India,West Indies,Johannesburg,India,South Africa,Neutral,Neutral,Second,First,2009,Wednesday,batting second
+India,Australia,Vadodara,Australia,India,Home,Away,Second,First,2009,Sunday,batting first
+India,Australia,Nagpur,India,India,Home,Away,First,Second,2009,Wednesday,batting first
+India,Australia,Delhi,India,India,Home,Away,Second,First,2009,Saturday,batting second
+India,Australia,Hyderabad,Australia,India,Home,Away,Second,First,2009,Thursday,batting first
+India,Australia,Guwahati,Australia,India,Home,Away,First,Second,2009,Sunday,batting second
+India,Sri Lanka,Rajkot,India,India,Home,Away,First,Second,2009,Tuesday,batting first
+India,Sri Lanka,Nagpur,Sri Lanka,India,Home,Away,First,Second,2009,Friday,batting second
+India,Sri Lanka,Cuttack,India,India,Home,Away,Second,First,2009,Monday,batting second
+India,Sri Lanka,Kolkata,India,India,Home,Away,Second,First,2009,Thursday,batting second
+India,Sri Lanka,Dhaka,Sri Lanka,Bangladesh,Neutral,Neutral,First,Second,2010,Tuesday,batting second
+India,Sri Lanka,Dhaka,India,Bangladesh,Neutral,Neutral,Second,First,2010,Sunday,batting second
+India,Sri Lanka,Dhaka,Sri Lanka,Bangladesh,Neutral,Neutral,First,Second,2010,Wednesday,batting second
+India,South Africa,Jaipur,India,India,Home,Away,First,Second,2010,Sunday,batting first
+India,South Africa,Gwalior,India,India,Home,Away,First,Second,2010,Wednesday,batting first
+India,South Africa,Ahmedabad,South Africa,India,Home,Away,Second,First,2010,Saturday,batting first
+India,Sri Lanka,Bulawayo,India,Zimbabwe,Neutral,Neutral,Second,First,2010,Sunday,batting second
+India,Sri Lanka,Harare,Sri Lanka,Zimbabwe,Neutral,Neutral,First,Second,2010,Saturday,batting second
+India,Pakistan,Dambulla,India,Sri Lanka,Neutral,Neutral,Second,First,2010,Saturday,batting second
+India,New Zealand,Dambulla,New Zealand,Sri Lanka,Neutral,Neutral,Second,First,2010,Tuesday,batting first
+India,New Zealand,Dambulla,India,Sri Lanka,Neutral,Neutral,First,Second,2010,Wednesday,batting first
+India,Australia,Visakhapatnam,India,India,Home,Away,Second,First,2010,Wednesday,batting second
+India,New Zealand,Guwahati,India,India,Home,Away,First,Second,2010,Sunday,batting first
+India,New Zealand,Jaipur,India,India,Home,Away,Second,First,2010,Wednesday,batting second
+India,New Zealand,Vadodara,India,India,Home,Away,Second,First,2010,Saturday,batting second
+India,New Zealand,Bengaluru,India,India,Home,Away,Second,First,2010,Tuesday,batting second
+India,New Zealand,Chennai,India,India,Home,Away,Second,First,2010,Friday,batting second
+India,Ireland,Bengaluru,India,India,Home,Away,Second,First,2011,Sunday,batting second
+India,Netherlands,Delhi,India,India,Home,Away,Second,First,2011,Wednesday,batting second
+India,South Africa,Nagpur,South Africa,India,Home,Away,First,Second,2011,Saturday,batting second
+India,West Indies,Chennai,India,India,Home,Away,First,Second,2011,Sunday,batting first
+India,Australia,Ahmedabad,India,India,Home,Away,Second,First,2011,Thursday,batting second
+India,Sri Lanka,Mumbai,India,India,Home,Away,Second,First,2011,Saturday,batting second
+India,England,Hyderabad,India,India,Home,Away,First,Second,2011,Friday,batting first
+India,England,Delhi,India,India,Home,Away,Second,First,2011,Monday,batting second
+India,England,Mumbai,India,India,Home,Away,Second,First,2011,Sunday,batting second
+India,England,Kolkata,India,India,Home,Away,First,Second,2011,Tuesday,batting first
+India,West Indies,Cuttack,India,India,Home,Away,Second,First,2011,Tuesday,batting first
+India,West Indies,Visakhapatnam,India,India,Home,Away,Second,First,2011,Friday,batting second
+India,West Indies,Ahmedabad,West Indies,India,Home,Away,Second,First,2011,Monday,batting first
+India,West Indies,Indore,India,India,Home,Away,First,Second,2011,Thursday,batting first
+India,West Indies,Chennai,India,India,Home,Away,First,Second,2011,Sunday,batting first
+India,Sri Lanka,Perth,India,Australia,Neutral,Neutral,Second,First,2012,Wednesday,batting second
+India,Sri Lanka,Brisbane,Sri Lanka,Australia,Neutral,Neutral,Second,First,2012,Tuesday,batting first
+India,Sri Lanka,Hobart,India,Australia,Neutral,Neutral,Second,First,2012,Tuesday,batting second
+India,Sri Lanka,Dhaka,India,Bangladesh,Neutral,Neutral,First,Second,2012,Tuesday,batting first
+India,Pakistan,Dhaka,India,Bangladesh,Neutral,Neutral,Second,First,2012,Sunday,batting second
+India,Pakistan,Chennai,Pakistan,India,Home,Away,First,Second,2012,Sunday,batting second
+India,Pakistan,Kolkata,Pakistan,India,Home,Away,Second,First,2013,Thursday,batting first
+India,Pakistan,Delhi,India,India,Home,Away,First,Second,2013,Sunday,batting first
+India,England,Rajkot,England,India,Home,Away,Second,First,2013,Friday,batting first
+India,England,Kochi,India,India,Home,Away,First,Second,2013,Tuesday,batting first
+India,England,Ranchi,India,India,Home,Away,Second,First,2013,Saturday,batting second
+India,England,Dharamsala,England,India,Home,Away,First,Second,2013,Sunday,batting second
+India,South Africa,Cardiff,India,England,Neutral,Neutral,First,Second,2013,Thursday,batting first
+India,West Indies,The Oval,India,England,Neutral,Neutral,Second,First,2013,Tuesday,batting second
+India,Pakistan,Birmingham,India,England,Neutral,Neutral,Second,First,2013,Saturday,batting second
+India,Sri Lanka,Cardiff,India,England,Neutral,Neutral,Second,First,2013,Thursday,batting second
+India,Sri Lanka,Kingston,Sri Lanka,West Indies,Neutral,Neutral,Second,First,2013,Tuesday,batting first
+India,Sri Lanka,Port of Spain,India,West Indies,Neutral,Neutral,First,Second,2013,Tuesday,batting first
+India,Sri Lanka,Port of Spain,India,West Indies,Neutral,Neutral,Second,First,2013,Thursday,batting first
+India,Australia,Pune,Australia,India,Home,Away,Second,First,2013,Sunday,batting first
+India,Australia,Jaipur,India,India,Home,Away,Second,First,2013,Wednesday,batting second
+India,Australia,Nagpur,India,India,Home,Away,Second,First,2013,Wednesday,batting second
+India,Australia,Bengaluru,India,India,Home,Away,First,Second,2013,Saturday,batting first
+India,West Indies,Kochi,India,India,Home,Away,Second,First,2013,Thursday,batting second
+India,West Indies,Visakhapatnam,West Indies,India,Home,Away,First,Second,2013,Sunday,batting second
+India,West Indies,Kanpur,India,India,Home,Away,Second,First,2013,Wednesday,batting second
+India,Sri Lanka,Fatullah,Sri Lanka,Bangladesh,Neutral,Neutral,First,Second,2014,Friday,batting second
+India,Pakistan,Dhaka,Pakistan,Bangladesh,Neutral,Neutral,First,Second,2014,Sunday,batting first
+India,West Indies,Kochi,West Indies,India,Home,Away,Second,First,2014,Wednesday,batting first
+India,West Indies,Delhi,India,India,Home,Away,First,Second,2014,Saturday,batting first
+India,West Indies,Dharamsala,India,India,Home,Away,First,Second,2014,Friday,batting first
+India,Sri Lanka,Cuttack,India,India,Home,Away,First,Second,2014,Sunday,batting first
+India,Sri Lanka,Ahmedabad,India,India,Home,Away,Second,First,2014,Thursday,batting second
+India,Sri Lanka,Hyderabad,India,India,Home,Away,Second,First,2014,Sunday,batting second
+India,Sri Lanka,Kolkata,India,India,Home,Away,First,Second,2014,Thursday,batting first
+India,Sri Lanka,Ranchi,India,India,Home,Away,Second,First,2014,Sunday,batting second
+India,Pakistan,Adelaide,India,Australia,Neutral,Neutral,First,Second,2015,Sunday,batting first
+India,South Africa,Melbourne,India,Australia,Neutral,Neutral,First,Second,2015,Sunday,batting first
+India,U.A.E.,Perth,India,Australia,Neutral,Neutral,Second,First,2015,Saturday,batting second
+India,West Indies,Perth,India,Australia,Neutral,Neutral,Second,First,2015,Friday,batting second
+India,Ireland,Hamilton,India,New Zealand,Neutral,Neutral,Second,First,2015,Tuesday,batting second
+India,Zimbabwe,Auckland,India,New Zealand,Neutral,Neutral,Second,First,2015,Saturday,batting second
+India,South Africa,Kanpur,South Africa,India,Home,Away,Second,First,2015,Sunday,batting first
+India,South Africa,Indore,India,India,Home,Away,First,Second,2015,Wednesday,batting first
+India,South Africa,Rajkot,South Africa,India,Home,Away,Second,First,2015,Sunday,batting first
+India,South Africa,Chennai,India,India,Home,Away,First,Second,2015,Thursday,batting first
+India,South Africa,Mumbai,South Africa,India,Home,Away,Second,First,2015,Sunday,batting first
+India,New Zealand,Dharamsala,India,India,Home,Away,Second,First,2016,Sunday,batting second
+India,New Zealand,Delhi,New Zealand,India,Home,Away,Second,First,2016,Thursday,batting first
+India,New Zealand,Ranchi,New Zealand,India,Home,Away,Second,First,2016,Wednesday,batting first
+India,New Zealand,Visakhapatnam,India,India,Home,Away,First,Second,2016,Saturday,batting first
+India,England,Pune,India,India,Home,Away,Second,First,2017,Sunday,batting second
+India,England,Cuttack,India,India,Home,Away,First,Second,2017,Thursday,batting first
+India,England,Kolkata,England,India,Home,Away,Second,First,2017,Sunday,batting first
+India,Pakistan,Birmingham,India,England,Neutral,Neutral,First,Second,2017,Sunday,batting first
+India,Sri Lanka,The Oval,Sri Lanka,England,Neutral,Neutral,First,Second,2017,Thursday,batting second
+India,South Africa,The Oval,India,England,Neutral,Neutral,Second,First,2017,Sunday,batting second
+India,Pakistan,The Oval,Pakistan,England,Neutral,Neutral,Second,First,2017,Sunday,batting first
+India,Australia,Chennai,India,India,Home,Away,First,Second,2017,Sunday,batting first
+India,Australia,Kolkata,India,India,Home,Away,First,Second,2017,Thursday,batting first
+India,Australia,Indore,India,India,Home,Away,Second,First,2017,Sunday,batting second
+India,Australia,Bengaluru,Australia,India,Home,Away,Second,First,2017,Thursday,batting first
+India,Australia,Nagpur,India,India,Home,Away,Second,First,2017,Sunday,batting second
+India,New Zealand,Mumbai,New Zealand,India,Home,Away,First,Second,2017,Sunday,batting second
+India,New Zealand,Pune,India,India,Home,Away,Second,First,2017,Wednesday,batting second
+India,New Zealand,Kanpur,India,India,Home,Away,First,Second,2017,Sunday,batting first
+India,England,Leeds,England,England,Away,Home,First,Second,1974,Saturday,batting second
+India,England,The Oval,England,England,Away,Home,First,Second,1974,Monday,batting second
+India,England,Lord's,England,England,Away,Home,Second,First,1975,Saturday,batting first
+India,East Africa,Leeds,India,England,Neutral,Neutral,Second,First,1975,Wednesday,batting second
+India,New Zealand,Christchurch,New Zealand,New Zealand,Away,Home,First,Second,1976,Saturday,batting second
+India,New Zealand,Auckland,New Zealand,New Zealand,Away,Home,Second,First,1976,Sunday,batting first
+India,Pakistan,Quetta,India,Pakistan,Away,Home,First,Second,1978,Sunday,batting first
+India,Pakistan,Sialkot,Pakistan,Pakistan,Away,Home,First,Second,1978,Friday,batting second
+India,Australia,Melbourne,India,Australia,Away,Home,First,Second,1980,Saturday,batting first
+India,Australia,Sydney,Australia,Australia,Away,Home,First,Second,1980,Thursday,batting second
+India,Australia,Sydney,Australia,Australia,Away,Home,First,Second,1981,Thursday,batting second
+India,Australia,Melbourne,Australia,Australia,Away,Home,First,Second,1981,Sunday,batting second
+India,Australia,Sydney,Australia,Australia,Away,Home,Second,First,1981,Thursday,batting first
+India,New Zealand,Auckland,New Zealand,New Zealand,Away,Home,Second,First,1981,Saturday,batting first
+India,New Zealand,Hamilton,New Zealand,New Zealand,Away,Home,Second,First,1981,Sunday,batting first
+India,England,Leeds,England,England,Away,Home,First,Second,1982,Wednesday,batting second
+India,England,The Oval,England,England,Away,Home,Second,First,1982,Friday,batting first
+India,Pakistan,Gujranwala,Pakistan,Pakistan,Away,Home,Second,First,1982,Friday,batting first
+India,Pakistan,Multan,Pakistan,Pakistan,Away,Home,Second,First,1982,Friday,batting first
+India,Pakistan,Lahore,India,Pakistan,Away,Home,First,Second,1982,Friday,batting first
+India,Pakistan,Karachi,Pakistan,Pakistan,Away,Home,First,Second,1983,Friday,batting second
+India,West Indies,Port of Spain,West Indies,West Indies,Away,Home,Second,First,1983,Wednesday,batting first
+India,West Indies,Albion,India,West Indies,Away,Home,First,Second,1983,Tuesday,batting first
+India,West Indies,St George's,West Indies,West Indies,Away,Home,First,Second,1983,Thursday,batting second
+India,Australia,Nottingham,Australia,England,Neutral,Neutral,Second,First,1983,Monday,batting first
+India,Australia,Chelmsford,India,England,Neutral,Neutral,First,Second,1983,Monday,batting first
+India,England,Manchester,India,England,Away,Home,Second,First,1983,Wednesday,batting second
+India,Pakistan,Quetta,Pakistan,Pakistan,Away,Home,Second,First,1984,Friday,batting first
+India,England,Sydney,India,Australia,Neutral,Neutral,First,Second,1985,Tuesday,batting first
+India,Australia,Melbourne,India,Australia,Away,Home,Second,First,1985,Sunday,batting second
+India,Australia,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1985,Friday,batting second
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,Second,First,1985,Sunday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,1985,Saturday,batting first
+India,Australia,Brisbane,Australia,Australia,Away,Home,First,Second,1986,Sunday,batting second
+India,Australia,Melbourne,India,Australia,Away,Home,Second,First,1986,Thursday,batting second
+India,Australia,Sydney,Australia,Australia,Away,Home,Second,First,1986,Tuesday,batting first
+India,Australia,Adelaide,Australia,Australia,Away,Home,Second,First,1986,Sunday,batting first
+India,Australia,Melbourne,India,Australia,Away,Home,Second,First,1986,Friday,batting second
+India,Australia,Sydney,Australia,Australia,Away,Home,Second,First,1986,Wednesday,batting first
+India,Australia,Melbourne,Australia,Australia,Away,Home,First,Second,1986,Sunday,batting second
+India,England,The Oval,India,England,Away,Home,Second,First,1986,Saturday,batting second
+India,England,Manchester,England,England,Away,Home,First,Second,1986,Monday,batting second
+India,England,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1987,Thursday,batting second
+India,Australia,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1987,Sunday,batting second
+India,Bangladesh,Chittagong,India,Bangladesh,Away,Home,Second,First,1988,Thursday,batting second
+India,West Indies,Bridgetown,West Indies,West Indies,Away,Home,Second,First,1989,Tuesday,batting first
+India,West Indies,Port of Spain,West Indies,West Indies,Away,Home,First,Second,1989,Thursday,batting second
+India,West Indies,Port of Spain,West Indies,West Indies,Away,Home,First,Second,1989,Saturday,batting second
+India,West Indies,St John's,West Indies,West Indies,Away,Home,First,Second,1989,Saturday,batting second
+India,West Indies,Georgetown,West Indies,West Indies,Away,Home,Second,First,1989,Tuesday,batting first
+India,Pakistan,Gujranwala,Pakistan,Pakistan,Away,Home,Second,First,1989,Monday,batting first
+India,Pakistan,Lahore,Pakistan,Pakistan,Away,Home,Second,First,1989,Friday,batting first
+India,New Zealand,Dunedin,New Zealand,New Zealand,Away,Home,Second,First,1990,Thursday,batting first
+India,Australia,Christchurch,Australia,New Zealand,Neutral,Neutral,Second,First,1990,Saturday,batting first
+India,New Zealand,Wellington,India,New Zealand,Away,Home,First,Second,1990,Tuesday,batting first
+India,Australia,Hamilton,Australia,New Zealand,Neutral,Neutral,First,Second,1990,Thursday,batting second
+India,England,Leeds,India,England,Away,Home,Second,First,1990,Wednesday,batting second
+India,England,Nottingham,India,England,Away,Home,Second,First,1990,Friday,batting second
+India,Australia,Perth,India,Australia,Away,Home,First,Second,1991,Sunday,batting first
+India,Australia,Hobart,Australia,Australia,Away,Home,First,Second,1991,Tuesday,batting second
+India,Australia,Adelaide,Australia,Australia,Away,Home,First,Second,1991,Sunday,batting second
+India,Australia,Sydney,Australia,Australia,Away,Home,First,Second,1992,Tuesday,batting second
+India,Australia,Melbourne,Australia,Australia,Away,Home,Second,First,1992,Saturday,batting first
+India,Australia,Sydney,Australia,Australia,Away,Home,Second,First,1992,Monday,batting first
+India,England,Perth,England,Australia,Neutral,Neutral,Second,First,1992,Saturday,batting first
+India,Australia,Brisbane,Australia,Australia,Away,Home,Second,First,1992,Sunday,batting first
+India,New Zealand,Dunedin,New Zealand,New Zealand,Away,Home,First,Second,1992,Thursday,batting second
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,First,Second,1992,Sunday,batting first
+India,South Africa,Cape Town,South Africa,South Africa,Away,Home,First,Second,1992,Monday,batting second
+India,South Africa,Port Elizabeth,South Africa,South Africa,Away,Home,First,Second,1992,Wednesday,batting second
+India,South Africa,Centurion,India,South Africa,Away,Home,Second,First,1992,Friday,batting second
+India,South Africa,Johannesburg,South Africa,South Africa,Away,Home,First,Second,1992,Sunday,batting second
+India,South Africa,Bloemfontein,South Africa,South Africa,Away,Home,First,Second,1992,Tuesday,batting second
+India,South Africa,Durban,South Africa,South Africa,Away,Home,Second,First,1992,Thursday,batting first
+India,South Africa,East London,India,South Africa,Away,Home,Second,First,1992,Saturday,batting second
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,1993,Sunday,batting first
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,1993,Thursday,batting first
+India,Sri Lanka,Moratuwa,Sri Lanka,Sri Lanka,Away,Home,First,Second,1993,Saturday,batting second
+India,New Zealand,Napier,New Zealand,New Zealand,Away,Home,Second,First,1994,Friday,batting first
+India,New Zealand,Auckland,India,New Zealand,Away,Home,Second,First,1994,Sunday,batting second
+India,New Zealand,Wellington,India,New Zealand,Away,Home,First,Second,1994,Wednesday,batting first
+India,New Zealand,Christchurch,New Zealand,New Zealand,Away,Home,First,Second,1994,Saturday,batting second
+India,U.A.E.,Sharjah,India,U.A.E.,Away,Home,First,Second,1994,Wednesday,batting first
+India,Australia,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1994,Tuesday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,First,Second,1994,Monday,batting second
+India,Australia,Colombo,India,Sri Lanka,Neutral,Neutral,First,Second,1994,Friday,batting first
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,Second,First,1994,Saturday,batting second
+India,New Zealand,Napier,New Zealand,New Zealand,Away,Home,First,Second,1995,Thursday,batting second
+India,Australia,Dunedin,India,New Zealand,Neutral,Neutral,Second,First,1995,Wednesday,batting second
+India,Bangladesh,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1995,Wednesday,batting second
+India,England,Leeds,England,England,Away,Home,First,Second,1996,Saturday,batting second
+India,England,Manchester,England,England,Away,Home,First,Second,1996,Sunday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,First,Second,1996,Wednesday,batting second
+India,Australia,Colombo,Australia,Sri Lanka,Neutral,Neutral,First,Second,1996,Friday,batting second
+India,South Africa,Bloemfontein,South Africa,South Africa,Away,Home,Second,First,1997,Thursday,batting first
+India,South Africa,Port Elizabeth,South Africa,South Africa,Away,Home,First,Second,1997,Sunday,batting second
+India,South Africa,East London,South Africa,South Africa,Away,Home,First,Second,1997,Tuesday,batting second
+India,South Africa,Durban,South Africa,South Africa,Away,Home,Second,First,1997,Thursday,batting first
+India,Zimbabwe,Bulawayo,Zimbabwe,Zimbabwe,Away,Home,First,Second,1997,Saturday,batting second
+India,West Indies,Port of Spain,West Indies,West Indies,Away,Home,First,Second,1997,Saturday,batting second
+India,West Indies,Port of Spain,India,West Indies,Away,Home,Second,First,1997,Sunday,batting second
+India,West Indies,Kingstown,West Indies,West Indies,Away,Home,Second,First,1997,Wednesday,batting first
+India,West Indies,Bridgetown,West Indies,West Indies,Away,Home,First,Second,1997,Saturday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,First,Second,1997,Friday,batting second
+India,Bangladesh,Colombo,India,Sri Lanka,Neutral,Neutral,Second,First,1997,Thursday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,First,Second,1997,Saturday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,1997,Sunday,batting first
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,First,Second,1997,Wednesday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,1997,Sunday,batting first
+India,Pakistan,Hyderabad,Pakistan,India,Home,Away,First,Second,1997,Sunday,batting second
+India,Pakistan,Karachi,India,Pakistan,Away,Home,Second,First,1997,Tuesday,batting second
+India,Pakistan,Lahore,Pakistan,Pakistan,Away,Home,First,Second,1997,Thursday,batting second
+India,England,Sharjah,England,U.A.E.,Neutral,Neutral,Second,First,1997,Thursday,batting first
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,Second,First,1998,Saturday,batting second
+India,Australia,Sharjah,Australia,U.A.E.,Neutral,Neutral,Second,First,1998,Sunday,batting first
+India,Australia,Sharjah,Australia,U.A.E.,Neutral,Neutral,Second,First,1998,Wednesday,batting first
+India,Australia,Sharjah,India,U.A.E.,Neutral,Neutral,Second,First,1998,Friday,batting second
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,Second,First,1998,Friday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,1998,Wednesday,batting first
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,1998,Tuesday,batting first
+India,Zimbabwe,Bulawayo,India,Zimbabwe,Away,Home,Second,First,1998,Saturday,batting second
+India,Zimbabwe,Bulawayo,India,Zimbabwe,Away,Home,Second,First,1998,Sunday,batting second
+India,Zimbabwe,Harare,Zimbabwe,Zimbabwe,Away,Home,Second,First,1998,Wednesday,batting first
+India,Australia,Dhaka,India,Bangladesh,Neutral,Neutral,First,Second,1998,Wednesday,batting first
+India,New Zealand,Taupo,New Zealand,New Zealand,Away,Home,First,Second,1999,Saturday,batting second
+India,New Zealand,Napier,India,New Zealand,Away,Home,Second,First,1999,Tuesday,batting second
+India,New Zealand,Auckland,India,New Zealand,Away,Home,Second,First,1999,Saturday,batting second
+India,New Zealand,Christchurch,New Zealand,New Zealand,Away,Home,Second,First,1999,Tuesday,batting first
+India,England,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1999,Friday,batting first
+India,England,Sharjah,India,U.A.E.,Neutral,Neutral,First,Second,1999,Sunday,batting first
+India,England,Birmingham,India,England,Away,Home,First,Second,1999,Saturday,batting first
+India,Australia,The Oval,Australia,England,Neutral,Neutral,Second,First,1999,Friday,batting first
+India,Australia,Galle,Australia,Sri Lanka,Neutral,Neutral,First,Second,1999,Monday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,First,Second,1999,Wednesday,batting second
+India,Australia,Colombo,Australia,Sri Lanka,Neutral,Neutral,Second,First,1999,Saturday,batting first
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,1999,Sunday,batting first
+India,Kenya,Nairobi,India,Kenya,Away,Home,First,Second,1999,Wednesday,batting first
+India,Australia,Melbourne,Australia,Australia,Away,Home,Second,First,2000,Wednesday,batting first
+India,Australia,Sydney,Australia,Australia,Away,Home,First,Second,2000,Friday,batting second
+India,Australia,Adelaide,Australia,Australia,Away,Home,Second,First,2000,Wednesday,batting first
+India,Australia,Perth,Australia,Australia,Away,Home,First,Second,2000,Sunday,batting second
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,Second,First,2000,Tuesday,batting second
+India,Kenya,Nairobi,India,Kenya,Away,Home,Second,First,2000,Tuesday,batting second
+India,Australia,Nairobi,India,Kenya,Neutral,Neutral,First,Second,2000,Saturday,batting first
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,Second,First,2001,Sunday,batting second
+India,Zimbabwe,Bulawayo,India,Zimbabwe,Away,Home,Second,First,2001,Wednesday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,2001,Sunday,batting first
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,Second,First,2001,Saturday,batting second
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,2001,Wednesday,batting first
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,2001,Sunday,batting first
+India,South Africa,Johannesburg,South Africa,South Africa,Away,Home,First,Second,2001,Friday,batting second
+India,South Africa,Centurion,India,South Africa,Away,Home,First,Second,2001,Wednesday,batting first
+India,South Africa,East London,South Africa,South Africa,Away,Home,Second,First,2001,Friday,batting first
+India,South Africa,Durban,South Africa,South Africa,Away,Home,First,Second,2001,Friday,batting second
+India,West Indies,Bridgetown,India,West Indies,Away,Home,Second,First,2002,Wednesday,batting second
+India,West Indies,Port of Spain,West Indies,West Indies,Away,Home,First,Second,2002,Saturday,batting second
+India,West Indies,Port of Spain,India,West Indies,Away,Home,First,Second,2002,Sunday,batting first
+India,England,Lord's,India,England,Away,Home,Second,First,2002,Saturday,batting second
+India,England,The Oval,England,England,Away,Home,Second,First,2002,Tuesday,batting first
+India,England,Lord's,India,England,Away,Home,Second,First,2002,Saturday,batting second
+India,England,Colombo,India,Sri Lanka,Neutral,Neutral,Second,First,2002,Sunday,batting second
+India,New Zealand,Auckland,New Zealand,New Zealand,Away,Home,First,Second,2002,Thursday,batting second
+India,New Zealand,Napier,New Zealand,New Zealand,Away,Home,Second,First,2002,Sunday,batting first
+India,New Zealand,Christchurch,New Zealand,New Zealand,Away,Home,First,Second,2003,Wednesday,batting second
+India,New Zealand,Queenstown,New Zealand,New Zealand,Away,Home,First,Second,2003,Saturday,batting second
+India,New Zealand,Wellington,India,New Zealand,Away,Home,Second,First,2003,Wednesday,batting second
+India,New Zealand,Auckland,India,New Zealand,Away,Home,Second,First,2003,Saturday,batting first
+India,New Zealand,Hamilton,New Zealand,New Zealand,Away,Home,First,Second,2003,Tuesday,batting second
+India,Australia,Centurion,Australia,South Africa,Neutral,Neutral,First,Second,2003,Saturday,batting second
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,First,Second,2003,Wednesday,batting first
+India,England,Durban,India,South Africa,Neutral,Neutral,First,Second,2003,Wednesday,batting first
+India,Australia,Johannesburg,Australia,South Africa,Neutral,Neutral,Second,First,2003,Sunday,batting first
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,First,Second,2003,Friday,batting first
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,Second,First,2003,Wednesday,batting second
+India,Australia,Melbourne,Australia,Australia,Away,Home,Second,First,2004,Friday,batting first
+India,Australia,Brisbane,India,Australia,Away,Home,First,Second,2004,Sunday,batting first
+India,Australia,Sydney,Australia,Australia,Away,Home,First,Second,2004,Thursday,batting second
+India,Australia,Perth,Australia,Australia,Away,Home,First,Second,2004,Sunday,batting second
+India,Australia,Melbourne,Australia,Australia,Away,Home,First,Second,2004,Friday,batting second
+India,Australia,Sydney,Australia,Australia,Away,Home,Second,First,2004,Sunday,batting first
+India,Pakistan,Karachi,India,Pakistan,Away,Home,First,Second,2004,Saturday,batting first
+India,Pakistan,Rawalpindi,Pakistan,Pakistan,Away,Home,Second,First,2004,Tuesday,batting first
+India,Pakistan,Peshawar,Pakistan,Pakistan,Away,Home,First,Second,2004,Friday,batting second
+India,Pakistan,Lahore,India,Pakistan,Away,Home,Second,First,2004,Sunday,batting second
+India,Pakistan,Lahore,India,Pakistan,Away,Home,First,Second,2004,Wednesday,batting first
+India,Sri Lanka,Dambulla,Sri Lanka,Sri Lanka,Away,Home,Second,First,2004,Sunday,batting first
+India,Bangladesh,Colombo,India,Sri Lanka,Neutral,Neutral,Second,First,2004,Wednesday,batting second
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,2004,Tuesday,batting first
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,2004,Sunday,batting first
+India,England,Nottingham,England,England,Away,Home,First,Second,2004,Wednesday,batting second
+India,England,The Oval,England,England,Away,Home,Second,First,2004,Friday,batting first
+India,England,Lord's,India,England,Away,Home,First,Second,2004,Sunday,batting first
+India,Bangladesh,Chittagong,India,Bangladesh,Away,Home,First,Second,2004,Thursday,batting first
+India,Bangladesh,Dhaka,Bangladesh,Bangladesh,Away,Home,Second,First,2004,Sunday,batting first
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,First,Second,2004,Monday,batting first
+India,Sri Lanka,Dambulla,Sri Lanka,Sri Lanka,Away,Home,First,Second,2005,Saturday,batting second
+India,Sri Lanka,Dambulla,Sri Lanka,Sri Lanka,Away,Home,First,Second,2005,Wednesday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,2005,Tuesday,batting first
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,First,Second,2005,Monday,batting first
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,Second,First,2005,Sunday,batting second
+India,Pakistan,Peshawar,Pakistan,Pakistan,Away,Home,Second,First,2006,Monday,batting first
+India,Pakistan,Rawalpindi,India,Pakistan,Away,Home,Second,First,2006,Saturday,batting second
+India,Pakistan,Lahore,India,Pakistan,Away,Home,Second,First,2006,Monday,batting second
+India,Pakistan,Multan,India,Pakistan,Away,Home,Second,First,2006,Thursday,batting second
+India,Pakistan,Karachi,India,Pakistan,Away,Home,Second,First,2006,Sunday,batting second
+India,West Indies,Kingston,India,West Indies,Away,Home,Second,First,2006,Thursday,batting second
+India,West Indies,Kingston,West Indies,West Indies,Away,Home,Second,First,2006,Saturday,batting first
+India,West Indies,Basseterre,West Indies,West Indies,Away,Home,First,Second,2006,Tuesday,batting second
+India,West Indies,Port of Spain,West Indies,West Indies,Away,Home,First,Second,2006,Friday,batting second
+India,West Indies,Port of Spain,West Indies,West Indies,Away,Home,Second,First,2006,Sunday,batting first
+India,Australia,Kuala Lumpur,Australia,Malaysia,Neutral,Neutral,Second,First,2006,Friday,batting first
+India,South Africa,Durban,South Africa,South Africa,Away,Home,Second,First,2006,Wednesday,batting first
+India,South Africa,Cape Town,South Africa,South Africa,Away,Home,Second,First,2006,Sunday,batting first
+India,South Africa,Port Elizabeth,South Africa,South Africa,Away,Home,Second,First,2006,Wednesday,batting first
+India,South Africa,Centurion,South Africa,South Africa,Away,Home,First,Second,2006,Sunday,batting second
+India,Bangladesh,Port of Spain,Bangladesh,West Indies,Neutral,Neutral,First,Second,2007,Saturday,batting second
+India,Bermuda,Port of Spain,India,West Indies,Neutral,Neutral,First,Second,2007,Monday,batting first
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,Second,First,2007,Thursday,batting second
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,First,Second,2007,Saturday,batting first
+India,Ireland,Belfast,India,Ireland,Away,Home,Second,First,2007,Saturday,batting second
+India,Scotland,Glasgow,India,Scotland,Away,Home,Second,First,2007,Thursday,batting second
+India,England,Southampton,England,England,Away,Home,Second,First,2007,Tuesday,batting first
+India,England,Bristol,India,England,Away,Home,First,Second,2007,Friday,batting first
+India,England,Birmingham,England,England,Away,Home,Second,First,2007,Monday,batting first
+India,England,Manchester,England,England,Away,Home,First,Second,2007,Thursday,batting second
+India,England,Leeds,India,England,Away,Home,First,Second,2007,Sunday,batting first
+India,England,The Oval,India,England,Away,Home,Second,First,2007,Wednesday,batting second
+India,England,Lord's,England,England,Away,Home,First,Second,2007,Saturday,batting second
+India,Australia,Melbourne,India,Australia,Away,Home,Second,First,2008,Sunday,batting second
+India,Australia,Adelaide,Australia,Australia,Away,Home,Second,First,2008,Sunday,batting first
+India,Australia,Sydney,Australia,Australia,Away,Home,Second,First,2008,Sunday,batting first
+India,Australia,Sydney,India,Australia,Away,Home,Second,First,2008,Sunday,batting second
+India,Australia,Brisbane,India,Australia,Away,Home,First,Second,2008,Tuesday,batting first
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,Second,First,2008,Thursday,batting second
+India,Hong Kong,Karachi,India,Pakistan,Neutral,Neutral,First,Second,2008,Wednesday,batting first
+India,Pakistan,Karachi,India,Pakistan,Away,Home,Second,First,2008,Thursday,batting second
+India,Bangladesh,Karachi,India,Pakistan,Neutral,Neutral,Second,First,2008,Saturday,batting second
+India,Pakistan,Karachi,Pakistan,Pakistan,Away,Home,First,Second,2008,Wednesday,batting second
+India,Sri Lanka,Dambulla,Sri Lanka,Sri Lanka,Away,Home,First,Second,2008,Monday,batting second
+India,Sri Lanka,Dambulla,India,Sri Lanka,Away,Home,Second,First,2008,Wednesday,batting second
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,2008,Sunday,batting first
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,2008,Wednesday,batting first
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,2008,Friday,batting first
+India,Sri Lanka,Dambulla,India,Sri Lanka,Away,Home,Second,First,2009,Wednesday,batting second
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,2009,Saturday,batting first
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,2009,Tuesday,batting first
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,2009,Thursday,batting first
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,2009,Sunday,batting first
+India,New Zealand,Napier,India,New Zealand,Away,Home,First,Second,2009,Tuesday,batting first
+India,New Zealand,Christchurch,India,New Zealand,Away,Home,First,Second,2009,Sunday,batting first
+India,New Zealand,Hamilton,India,New Zealand,Away,Home,First,Second,2009,Wednesday,batting first
+India,New Zealand,Auckland,New Zealand,New Zealand,Away,Home,First,Second,2009,Saturday,batting second
+India,West Indies,Kingston,India,West Indies,Away,Home,First,Second,2009,Friday,batting first
+India,West Indies,Kingston,West Indies,West Indies,Away,Home,First,Second,2009,Sunday,batting second
+India,West Indies,Gros Islet,India,West Indies,Away,Home,Second,First,2009,Friday,batting second
+India,Sri Lanka,Colombo,Sri Lanka,Sri Lanka,Away,Home,Second,First,2009,Saturday,batting first
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,2009,Monday,batting first
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,Second,First,2010,Thursday,batting second
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,Second,First,2010,Monday,batting second
+India,Zimbabwe,Bulawayo,Zimbabwe,Zimbabwe,Away,Home,First,Second,2010,Friday,batting second
+India,Zimbabwe,Harare,Zimbabwe,Zimbabwe,Away,Home,First,Second,2010,Thursday,batting second
+India,Bangladesh,Dambulla,India,Sri Lanka,Neutral,Neutral,Second,First,2010,Wednesday,batting second
+India,Sri Lanka,Dambulla,Sri Lanka,Sri Lanka,Away,Home,First,Second,2010,Tuesday,batting second
+India,Sri Lanka,Dambulla,India,Sri Lanka,Away,Home,First,Second,2010,Thursday,batting first
+India,Sri Lanka,Dambulla,India,Sri Lanka,Away,Home,Second,First,2010,Monday,batting second
+India,Sri Lanka,Dambulla,Sri Lanka,Sri Lanka,Away,Home,First,Second,2010,Sunday,batting second
+India,Sri Lanka,Dambulla,Sri Lanka,Sri Lanka,Away,Home,Second,First,2010,Saturday,batting first
+India,South Africa,Durban,South Africa,South Africa,Away,Home,Second,First,2011,Wednesday,batting first
+India,South Africa,Johannesburg,India,South Africa,Away,Home,First,Second,2011,Saturday,batting first
+India,South Africa,Cape Town,India,South Africa,Away,Home,Second,First,2011,Tuesday,batting second
+India,South Africa,Port Elizabeth,South Africa,South Africa,Away,Home,Second,First,2011,Friday,batting first
+India,South Africa,Centurion,South Africa,South Africa,Away,Home,Second,First,2011,Sunday,batting first
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,First,Second,2011,Saturday,batting first
+India,West Indies,Port of Spain,India,West Indies,Away,Home,Second,First,2011,Monday,batting second
+India,West Indies,Port of Spain,India,West Indies,Away,Home,Second,First,2011,Wednesday,batting second
+India,West Indies,North Sound,India,West Indies,Away,Home,Second,First,2011,Saturday,batting second
+India,West Indies,North Sound,West Indies,West Indies,Away,Home,Second,First,2011,Monday,batting first
+India,West Indies,Kingston,West Indies,West Indies,Away,Home,First,Second,2011,Thursday,batting second
+India,England,Southampton,England,England,Away,Home,First,Second,2011,Tuesday,batting second
+India,England,The Oval,England,England,Away,Home,First,Second,2011,Friday,batting second
+India,England,Cardiff,England,England,Away,Home,First,Second,2011,Friday,batting second
+India,Australia,Melbourne,Australia,Australia,Away,Home,Second,First,2012,Sunday,batting first
+India,Australia,Adelaide,India,Australia,Away,Home,Second,First,2012,Sunday,batting second
+India,Australia,Brisbane,Australia,Australia,Away,Home,Second,First,2012,Sunday,batting first
+India,Australia,Sydney,Australia,Australia,Away,Home,Second,First,2012,Sunday,batting first
+India,Bangladesh,Dhaka,Bangladesh,Bangladesh,Away,Home,First,Second,2012,Friday,batting second
+India,Sri Lanka,Hambantota,India,Sri Lanka,Away,Home,First,Second,2012,Saturday,batting first
+India,Sri Lanka,Hambantota,Sri Lanka,Sri Lanka,Away,Home,First,Second,2012,Tuesday,batting second
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,Second,First,2012,Saturday,batting second
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,Second,First,2012,Tuesday,batting second
+India,England,Birmingham,India,England,Away,Home,First,Second,2013,Sunday,batting first
+India,West Indies,Kingston,West Indies,West Indies,Away,Home,First,Second,2013,Sunday,batting first
+India,West Indies,Port of Spain,India,West Indies,Away,Home,First,Second,2013,Friday,batting first
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,Second,First,2013,Wednesday,batting second
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,First,Second,2013,Friday,batting first
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,Second,First,2013,Sunday,batting second
+India,Zimbabwe,Bulawayo,India,Zimbabwe,Away,Home,Second,First,2013,Thursday,batting second
+India,Zimbabwe,Bulawayo,India,Zimbabwe,Away,Home,Second,First,2013,Saturday,batting second
+India,South Africa,Johannesburg,South Africa,South Africa,Away,Home,Second,First,2013,Thursday,batting first
+India,South Africa,Durban,South Africa,South Africa,Away,Home,Second,First,2013,Sunday,batting first
+India,New Zealand,Napier,New Zealand,New Zealand,Away,Home,Second,First,2014,Sunday,batting first
+India,New Zealand,Hamilton,New Zealand,New Zealand,Away,Home,Second,First,2014,Wednesday,batting first
+India,New Zealand,Hamilton,New Zealand,New Zealand,Away,Home,First,Second,2014,Tuesday,batting second
+India,New Zealand,Wellington,New Zealand,New Zealand,Away,Home,Second,First,2014,Friday,batting first
+India,Bangladesh,Fatullah,India,Bangladesh,Away,Home,Second,First,2014,Wednesday,batting second
+India,Afghanistan,Dhaka,India,Bangladesh,Neutral,Neutral,Second,First,2014,Wednesday,batting second
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,Second,First,2014,Sunday,batting second
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,First,Second,2014,Tuesday,batting first
+India,England,Cardiff,India,England,Away,Home,First,Second,2014,Wednesday,batting first
+India,England,Nottingham,India,England,Away,Home,Second,First,2014,Saturday,batting second
+India,England,Birmingham,India,England,Away,Home,Second,First,2014,Tuesday,batting second
+India,England,Leeds,England,England,Away,Home,Second,First,2014,Friday,batting first
+India,Australia,Melbourne,Australia,Australia,Away,Home,First,Second,2015,Sunday,batting second
+India,England,Brisbane,England,Australia,Neutral,Neutral,First,Second,2015,Tuesday,batting second
+India,England,Perth,England,Australia,Neutral,Neutral,First,Second,2015,Friday,batting second
+India,Bangladesh,Melbourne,India,Australia,Neutral,Neutral,First,Second,2015,Thursday,batting first
+India,Australia,Sydney,Australia,Australia,Away,Home,Second,First,2015,Thursday,batting first
+India,Bangladesh,Dhaka,Bangladesh,Bangladesh,Away,Home,Second,First,2015,Thursday,batting first
+India,Bangladesh,Dhaka,Bangladesh,Bangladesh,Away,Home,First,Second,2015,Sunday,batting second
+India,Bangladesh,Dhaka,India,Bangladesh,Away,Home,First,Second,2015,Wednesday,batting first
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,First,Second,2015,Friday,batting first
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,First,Second,2015,Sunday,batting first
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,First,Second,2015,Tuesday,batting first
+India,Australia,Perth,Australia,Australia,Away,Home,First,Second,2016,Tuesday,batting second
+India,Australia,Brisbane,Australia,Australia,Away,Home,First,Second,2016,Friday,batting second
+India,Australia,Melbourne,Australia,Australia,Away,Home,First,Second,2016,Sunday,batting second
+India,Australia,Canberra,Australia,Australia,Away,Home,Second,First,2016,Wednesday,batting first
+India,Australia,Sydney,India,Australia,Away,Home,Second,First,2016,Saturday,batting second
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,Second,First,2016,Saturday,batting second
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,Second,First,2016,Monday,batting second
+India,Zimbabwe,Harare,India,Zimbabwe,Away,Home,Second,First,2016,Wednesday,batting second
+India,Bangladesh,Birmingham,India,England,Neutral,Neutral,Second,First,2017,Thursday,batting second
+India,West Indies,Port of Spain,India,West Indies,Away,Home,First,Second,2017,Sunday,batting first
+India,West Indies,North Sound,India,West Indies,Away,Home,First,Second,2017,Friday,batting first
+India,West Indies,North Sound,West Indies,West Indies,Away,Home,Second,First,2017,Sunday,batting first
+India,West Indies,Kingston,India,West Indies,Away,Home,Second,First,2017,Thursday,batting second
+India,Sri Lanka,Dambulla,India,Sri Lanka,Away,Home,Second,First,2017,Sunday,batting second
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,First,Second,2017,Thursday,batting first
+India,Sri Lanka,Colombo,India,Sri Lanka,Away,Home,Second,First,2017,Sunday,batting second
